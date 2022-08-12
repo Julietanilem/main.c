@@ -1,0 +1,16 @@
+Sirio;Betelgeuse;Rigel;
+Jupiter;Urano;Mercurio;
+21 julio de 1969;16 julio de 1969;4 julio de 1969;
+Próxima Centauri;La Estrella Polar;Pólux;
+Siglo XVII;Siglo IX;Siglo XII;
+Sí, se puede ver a ciertas horas;Imposible, se necesita un telescopio;No se puede ver ni con telescopio;
+Distancia entre la Tierra y el Sol;A un año luz;Distancia entre el Sol y Andromeda;
+Deimos;Ganímedes;Ío;
+Proyecto SETI;Proyecto Área 51;Proyecto Isaac Asimov;
+A la muerte de una estrella;Al nacimiento de una estrella;A la formación de nuevas galaxias;
+Sistema Cervantes;Sistema de Ernest Hemingway;Sistema de William Shakespeare;
+UY Scuti;VY Canis Majoris;Arcturus;
+15.000.000 ºC;2.000.000 ºC;10.000.000 ºC;
+Cinturón de asteroides;Cinturón de Kuiper;Cinturón de Orión;
+Sonda espacial Voyager 1;Sonda espacial Cassini;El Halcón Milenario;
+El Monte Olimpo, en Marte;El Altar de Zeus, en Júpiter;La Morada de los Titanes, en Júpiter;

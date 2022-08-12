@@ -1,0 +1,10 @@
+estrella
+nebulosa
+telescopio
+traslacion
+cohete
+bigbang
+meteoro
+planetario
+supernova
+cometa
